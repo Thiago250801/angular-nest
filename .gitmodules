@@ -1,6 +1,0 @@
-[submodule "angular-nest/front-end"]
-	path = angular-nest/front-end
-	url = https://github.com/Thiago250801/front-end.git
-[submodule "angular-nest/back-end"]
-	path = angular-nest/back-end
-	url = https://github.com/Thiago250801/back-end.git
